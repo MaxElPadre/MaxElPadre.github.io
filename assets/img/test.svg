@@ -1,0 +1,35 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 680" width="2048" height="680">
+	<title>Nouveau projet</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+		.txt1 { font-size: 40px;fill: #b8a9ff;font-weight: 700;font-family: "DejaVuSansCondensed-Bold", "DejaVu Sans" } 
+		.txt2 { font-size: 32px;fill: #80bbb3;font-weight: 700;font-family: "DejaVuSansCondensed-Bold", "DejaVu Sans" } 
+		.txt3 { font-size: 24px;fill: #ffffff;font-weight: 400;font-family: "DejaVuSansCondensed", "DejaVu Sans" } 
+	</style>
+	<path id="Forme 1" class="shp0" d="M30 340L2018 340L2018 348L30 348L30 340Z" />
+	<path id="Calque 1" class="shp0" d="M2018.5 363C2007.72 363 1999 354.28 1999 343.5C1999 332.72 2007.72 324 2018.5 324C2029.28 324 2038 332.72 2038 343.5C2038 354.28 2029.28 363 2018.5 363Z" />
+	<path id="Calque 1 copy" class="shp0" d="M27.5 364C16.72 364 8 355.28 8 344.5C8 333.72 16.72 325 27.5 325C38.28 325 47 333.72 47 344.5C47 355.28 38.28 364 27.5 364Z" />
+	<path id="Forme 2" class="shp0" d="M146 258L153 258L153 343L146 343L146 258Z" />
+	<path id="Forme 2 copy" class="shp0" d="M556 344L563 344L563 429L556 429L556 344Z" />
+	<path id="Forme 2 copy 2" class="shp0" d="M880 258L887 258L887 343L880 343L880 258Z" />
+	<path id="Forme 2 copy 3" class="shp0" d="M1255 343L1262 343L1262 428L1255 428L1255 343Z" />
+	<path id="Forme 2 copy 4" class="shp0" d="M1630 258L1637 258L1637 343L1630 343L1630 258Z" />
+	<text id=" " style="transform: matrix(1,0,0,1,134,83)" >
+	</text>
+	<text id="2014 ~ 2016 " style="transform: matrix(1,0,0,1,183,90)" >
+		<tspan x="0" y="30.391" class="txt1">2014 ~ 2016</tspan><tspan  y="30.391" class="txt1">
+</tspan>
+	</text>
+	<text id="BAC S - SVT " style="transform: matrix(1,0,0,1,247,136)" >
+		<tspan x="0" y="24.313" class="txt2">B</tspan><tspan  y="24.313" class="txt2">A</tspan><tspan  y="24.313" class="txt2">C</tspan><tspan  y="24.313" class="txt2"> </tspan><tspan  y="24.313" class="txt2">S</tspan><tspan  y="24.313" class="txt2"> </tspan><tspan  y="24.313" class="txt2">-</tspan><tspan  y="24.313" class="txt2"> </tspan><tspan  y="24.313" class="txt2">S</tspan><tspan  y="24.313" class="txt2">V</tspan><tspan  y="24.313" class="txt2">T</tspan><tspan  y="24.313" class="txt2">
+</tspan>
+	</text>
+	<text id="Lycée Pierre de Coubertin, Bacca" style="transform: matrix(1,0,0,1,9,178)" >
+		<tspan x="0" y="18.234" class="txt3">L</tspan><tspan  y="18.234" class="txt3">y</tspan><tspan  y="18.234" class="txt3">c</tspan><tspan  y="18.234" class="txt3">é</tspan><tspan  y="18.234" class="txt3">e</tspan><tspan  y="18.234" class="txt3"> </tspan><tspan  y="18.234" class="txt3">P</tspan><tspan  y="18.234" class="txt3">i</tspan><tspan  y="18.234" class="txt3">e</tspan><tspan  y="18.234" class="txt3">r</tspan><tspan  y="18.234" class="txt3">r</tspan><tspan  y="18.234" class="txt3">e</tspan><tspan  y="18.234" class="txt3"> </tspan><tspan  y="18.234" class="txt3">d</tspan><tspan  y="18.234" class="txt3">e</tspan><tspan  y="18.234" class="txt3"> </tspan><tspan  y="18.234" class="txt3">C</tspan><tspan  y="18.234" class="txt3">o</tspan><tspan  y="18.234" class="txt3">u</tspan><tspan  y="18.234" class="txt3">b</tspan><tspan  y="18.234" class="txt3">e</tspan><tspan  y="18.234" class="txt3">r</tspan><tspan  y="18.234" class="txt3">t</tspan><tspan  y="18.234" class="txt3">i</tspan><tspan  y="18.234" class="txt3">n</tspan><tspan  y="18.234" class="txt3">,</tspan><tspan  y="18.234" class="txt3"> </tspan><tspan  y="18.234" class="txt3">B</tspan><tspan  y="18.234" class="txt3">a</tspan><tspan  y="18.234" class="txt3">c</tspan><tspan  y="18.234" class="txt3">c</tspan><tspan  y="18.234" class="txt3">a</tspan><tspan  y="18.234" class="txt3">l</tspan><tspan  y="18.234" class="txt3">a</tspan><tspan  y="18.234" class="txt3">u</tspan><tspan  y="18.234" class="txt3">r</tspan><tspan  y="18.234" class="txt3">é</tspan><tspan  y="18.234" class="txt3">a</tspan><tspan  y="18.234" class="txt3">t</tspan><tspan  y="18.234" class="txt3"> </tspan>
+		<tspan x="0" y="47.034" class="txt3">S</tspan><tspan  y="47.034" class="txt3">c</tspan><tspan  y="47.034" class="txt3">i</tspan><tspan  y="47.034" class="txt3">e</tspan><tspan  y="47.034" class="txt3">n</tspan><tspan  y="47.034" class="txt3">t</tspan><tspan  y="47.034" class="txt3">i</tspan><tspan  y="47.034" class="txt3">f</tspan><tspan  y="47.034" class="txt3">i</tspan><tspan  y="47.034" class="txt3">q</tspan><tspan  y="47.034" class="txt3">u</tspan><tspan  y="47.034" class="txt3">e</tspan><tspan  y="47.034" class="txt3"> </tspan><tspan  y="47.034" class="txt3">-</tspan><tspan  y="47.034" class="txt3"> </tspan><tspan  y="47.034" class="txt3">O</tspan><tspan  y="47.034" class="txt3">p</tspan><tspan  y="47.034" class="txt3">t</tspan><tspan  y="47.034" class="txt3">i</tspan><tspan  y="47.034" class="txt3">o</tspan><tspan  y="47.034" class="txt3">n</tspan><tspan  y="47.034" class="txt3"> </tspan><tspan  y="47.034" class="txt3">S</tspan><tspan  y="47.034" class="txt3">V</tspan><tspan  y="47.034" class="txt3">T</tspan><tspan  y="47.034" class="txt3">,</tspan><tspan  y="47.034" class="txt3"> </tspan><tspan  y="47.034" class="txt3">M</tspan><tspan  y="47.034" class="txt3">e</tspan><tspan  y="47.034" class="txt3">a</tspan><tspan  y="47.034" class="txt3">u</tspan><tspan  y="47.034" class="txt3">x</tspan><tspan  y="47.034" class="txt3">
+</tspan>
+	</text>
+	<text id=" " style="transform: matrix(1,0,0,1,770,237.5)" >
+	</text>
+</svg>

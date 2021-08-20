@@ -1,6 +1,29 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 40px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #000000b8;
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
 body {
   background-color: #d1d8eac7;
   color: #4e4e4e;
@@ -864,6 +887,11 @@ a:hover {
 /*--------------------------------------------------------------
 # Skills
 --------------------------------------------------------------*/
+.services-mf {
+  padding-top: 6rem;
+  padding-bottom: 7rem;
+}
+
 .service-box {
   background-color: #fff;
   padding: 2.5rem 1.3rem;
@@ -897,15 +925,15 @@ a:hover {
 }
 
 .service-box .ico-circle.cSharpIconCircle {
-  box-shadow: 0 0 0 10px #007aff;
+  box-shadow: 0 0 0 10px #3750a9;
 }
 
 .service-box .ico-circle.javascriptIconCircle {
-  box-shadow: 0 0 0 10px #ed3258;
+  box-shadow: 0 0 0 10px #3750a9;
 }
 
 .service-box .ico-circle.sqlIconCircle {
-  box-shadow: 0 0 0 10px #fac13c;
+  box-shadow: 0 0 0 10px #3750a9;
 }
 
 .service-box .ico-circle img {
@@ -926,6 +954,14 @@ a:hover {
 /*--------------------------------------------------------------
 # Counter
 --------------------------------------------------------------*/
+.section-counter .img-fluid {
+  min-width: 1100px;
+}
+
+.section-counter .container {
+  overflow-x: auto;
+}
+
 .counter-box {
   color: #fff;
   text-align: center;
@@ -956,6 +992,11 @@ a:hover {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.portfolio-mf {
+  padding-top: 6rem;
+  padding-bottom: 7rem;
+}
+
 .work-box {
   margin-bottom: 3rem;
   -webkit-backface-visibility: hidden;
