@@ -265,6 +265,10 @@ a:hover {
   margin: 0 15px 0 0;
   box-shadow: 0 0 0 3px #3750a9;
   transition: all 500ms ease;
+  justify-content: center;
+  vertical-align: middle;
+  display: flex;
+  align-items: center;
 }
 
 .socials .ico-circle:hover {
@@ -867,6 +871,10 @@ a:hover {
   margin-top: 2rem;
 }
 
+.skill-mf .title-s {
+  margin-bottom: 2rem;
+}
+
 .skill-mf span {
   color: #4e4e4e;
 }
@@ -876,6 +884,7 @@ a:hover {
   margin: .5rem 0 1.2rem 0;
   border-radius: 10px;
   height: .7rem;
+  margin-top: 1rem;
 }
 
 .skill-mf .progress .progress-bar {
