@@ -969,7 +969,7 @@ a:hover {
 # Counter
 --------------------------------------------------------------*/
 .section-counter .img-fluid {
-  min-width: 1100px;
+  min-width: 960px;
 }
 
 .section-counter .container {
