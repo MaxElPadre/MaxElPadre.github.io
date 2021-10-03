@@ -877,7 +877,12 @@ a:hover {
 }
 
 .skill-mf .title-s {
-  margin-bottom: 2rem;
+  margin-top: 3rem;
+}
+
+.skill-mf ul li {
+  font-style: italic;
+  line-height: 35px;
 }
 
 .skill-mf span {
